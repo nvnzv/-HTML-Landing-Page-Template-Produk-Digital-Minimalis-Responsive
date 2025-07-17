@@ -25,7 +25,7 @@ Cara pakai:
   <div class="container">
     <h1>Produk Digital Premium</h1>
     <p>Beli script, bot, dan template coding berkualitas di Navanza Digital Lab.</p>
-    <a href="https://lynk.id/navanza" class="btn">Lihat Produk</a>
+    <a href="https://lynk.id/nvnzv" class="btn">Lihat Produk</a>
   </div>
 </body>
 </html>
