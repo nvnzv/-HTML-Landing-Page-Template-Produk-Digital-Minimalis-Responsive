@@ -3,7 +3,7 @@ Navanza Digital Lab
 Cara pakai:
 1. Edit teks sesuai produkmu
 2. Upload ke hosting / Netlify / Vercel
-🔥 Untuk versi premium multi section + button CTA, beli di Lynk: https://lynk.id/navanza
+🔥 Untuk versi premium multi section + button CTA, beli di Lynk: https://lynk.id/nvnzv
 -->
 
 <!DOCTYPE html>
